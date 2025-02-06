@@ -1,4 +1,4 @@
-# Projeto Flutter feito com ajuda de IA.
+# Projeto Flutter
 
 ## Aplicativo de Tarefas
 
